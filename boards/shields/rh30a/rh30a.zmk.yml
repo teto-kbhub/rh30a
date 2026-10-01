@@ -2,6 +2,6 @@ file_format: "1"
 id: rh30a
 name: RH30A
 type: shield
-url: https://github.com/alfab21/rh30a-zmk-config
+url: https://github.com/teto-kbhub/rh30a
 requires:
   - seeeduino_xiao_ble

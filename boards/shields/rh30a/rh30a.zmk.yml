@@ -1,0 +1,7 @@
+file_format: "1"
+id: rh30a
+name: RH30A
+type: shield
+url: https://github.com/alfab21/rh30a-zmk-config
+requires:
+  - seeeduino_xiao_ble

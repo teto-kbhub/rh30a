@@ -1,4 +1,0 @@
-name: zmk-keyboard-rh30a
-build:
-  settings:
-    board_root: .

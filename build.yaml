@@ -1,1 +1,4 @@
-
+---
+include:
+  - board: seeeduino_xiao_ble
+    shield: rh30a rgbled_adapter

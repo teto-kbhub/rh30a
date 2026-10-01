@@ -1,0 +1,2 @@
+config SHIELD_RH30A
+    def_bool $(shields_list_contains,rh30a)
